@@ -1,0 +1,6 @@
+{
+  "name": "MandiBahi - Mandi Vyapar & Man Hisab",
+  "description": "Digital Mandi Bahi-Khata & Maund (मण) trade calculator. Record daily arrivals, calculate weight to man, manage farmer slips, and track commission and balances.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
